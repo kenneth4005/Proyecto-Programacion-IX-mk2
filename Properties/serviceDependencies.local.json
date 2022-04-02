@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Proyecto_Programacion_IX_mk2Context"
+    }
+  }
+}
